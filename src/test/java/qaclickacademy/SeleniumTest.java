@@ -14,6 +14,14 @@ public class SeleniumTest {
 	public void elementsUI()
 	{
 		System.out.println("elementsUI");
+		System.out.println("right now in develop branch");
+	}
+	@Test
+	public void elementsUITest()
+	{
+		System.out.println("elementsUI");
+		System.out.println("right now in develop branch");
+		System.out.println("new code added");
 	}
 	
 }
